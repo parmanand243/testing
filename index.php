@@ -1,15 +1,15 @@
 <?php
-    echo "Yahoo Baba";
+    echo "welcome to testing page";
 
-   echo 'Yahoo Baba';
 
-   echo ('Yahoo Baba');
+
+   echo ('Hello');
 
     echo "Yahoo","Baba";
 
     echo "Yahoo"."Baba";
 
-    echo "<h1><i>Yahoo"."Baba</i></h1>";
+    echo "<h1><i>YHy welcome to azure"."page</i></h1>";
 
    
 ?>
